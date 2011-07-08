@@ -1,0 +1,11 @@
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_01.Form1.resources
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_01.Resources.resources
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\bin\Debug\MCID_INDEV01.exe
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\bin\Debug\MCID_INDEV01.pdb
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\bin\Debug\MCID_INDEV01.xml
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_INDEV01.exe
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_INDEV01.xml
+c:\users\jayden\documents\visual studio 2010\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_INDEV01.pdb

@@ -1,0 +1,40 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=C:\Users\Jayden\Documents\Visual Studio 2010\Projects\MCID_01\MCID_01\bin\Debug\~MCID_INDEV01.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=C:\Users\Jayden\Documents\Visual Studio 2010\Projects\MCID_01\MCID_01\bin\Debug\~MCID_INDEV01_LAYOUT.INF
+.Set RptFileName=C:\Users\Jayden\Documents\Visual Studio 2010\Projects\MCID_01\MCID_01\bin\Debug\~MCID_INDEV01.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+C:\Users\Jayden\DOCUME~1\MCIDIN~1.TXT
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\APP~1.CON
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\FORM1D~1.VB
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\FORM1~1.RES
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\Form1.vb
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\GRASSB~1.ICO
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\MCID_0~1.VBP
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\MCID_0~1.USE
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\DESIGN~2.CAC
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\DESIGN~1.CAC
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\GENERA~1.TLO
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\GENERA~2.TLO
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_0~1.RES
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_0~2.RES
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_0~1.TXT
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_I~1.EXE
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_I~1.PDB
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\obj\x86\Debug\MCID_I~1.XML
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\bin\Debug\MCID_0~1.MAN
+C:\Users\Jayden\DOCUME~1\VISUAL~1\Projects\MCID_01\MCID_01\bin\Debug\MCID_I~1.EXE
